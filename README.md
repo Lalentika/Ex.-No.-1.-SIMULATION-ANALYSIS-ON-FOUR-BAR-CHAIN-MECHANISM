@@ -10,6 +10,7 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/03952954-387e-4fd3-a1a0-a8dd4b82ae07)
 
+
 ## REQUIREMENTS:
 ###  ●	Mech Analyzer software.
 ###  ●	Processor: Minimum 1.5 GHz
@@ -55,8 +56,8 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+### Name:Lalentika Twisha M
+### Register Number:24003575
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.

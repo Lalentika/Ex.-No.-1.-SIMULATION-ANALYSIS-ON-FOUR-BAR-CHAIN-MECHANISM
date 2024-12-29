@@ -53,10 +53,14 @@
 
 
 ## Output:
+![image](https://github.com/user-attachments/assets/1afedb5b-d87e-465a-91f6-77d202e7a439)
+![image](https://github.com/user-attachments/assets/2a8437d0-2de6-4c47-b4c5-42c71e96693b)
 
 
-### Name:
-### Register Number: 
+
+
+### Name: Lalentika Twisha M
+### Register Number: 24003575
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
